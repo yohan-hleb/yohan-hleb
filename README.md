@@ -1,4 +1,4 @@
-## Hi there 👋
+## He/They 👋
 
 <!--
 **yohan-hleb/yohan-hleb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,3 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![17503710655230](https://github.com/user-attachments/assets/c12d19b3-23f0-4858-9c02-4afda0e67804)
+
+#NonBinaryTrees
+#NoHeteroAPIs
+#TERFblockingMiddleware
